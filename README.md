@@ -1,5 +1,5 @@
 ### Hi! I'm Zeyneb👋
-I am a Software Engineer based in London, UK.
+I am a Software Engineer based in Epsom, UK.
 <br/>
 
 <a href="https://zeynebesendir.github.io">
