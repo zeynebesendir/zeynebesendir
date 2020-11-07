@@ -1,7 +1,3 @@
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### Hi! I'm Zeyneb👋
 I am a Software Engineer based in Epsom, UK.
@@ -15,7 +11,7 @@ I am a Software Engineer based in Epsom, UK.
  <img   width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br/><br/>
+<br/>
 
 Languages and Tools:
 
@@ -37,7 +33,4 @@ Languages and Tools:
 
 <img align="left" alt="SQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br/>
-<br/>
-<br/>
-<br/>
+
