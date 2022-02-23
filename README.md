@@ -2,7 +2,7 @@
 ### Hi! I'm Zeyneb👋
 I am a Software Engineer based in Epsom, UK.
 <br/>
-
+<!--
 <a href="https://zeynebesendir.github.io">
   <img  align="left"  width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -10,7 +10,7 @@ I am a Software Engineer based in Epsom, UK.
 <a href="https://www.linkedin.com/in/zeynebesendir">
  <img align="left"   width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+-->
 <br/>
 <br/>
 
